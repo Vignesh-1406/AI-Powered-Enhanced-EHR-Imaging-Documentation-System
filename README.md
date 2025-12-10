@@ -1,5 +1,3 @@
-# EHR_Gen_AI_TeamB
-
 # AI-Powered-Enhanced EHR Imaging & Documentation System
 
 ## 📖 Project Overview
